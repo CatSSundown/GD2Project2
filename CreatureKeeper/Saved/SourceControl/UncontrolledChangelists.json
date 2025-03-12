@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UE_5.5/GD2Project2/CreatureKeeper/Content/Widgets/W_LoseScreen.uasset",
+				"D:/UE_5.5/GD2Project2/CreatureKeeper/Content/Widgets/W_PauseScreen.uasset",
+				"D:/UE_5.5/GD2Project2/CreatureKeeper/Content/BluePrints/BP_Base.uasset",
+				"D:/UE_5.5/GD2Project2/CreatureKeeper/Content/Widgets/W_MainMenu.uasset",
+				"D:/UE_5.5/GD2Project2/CreatureKeeper/Content/Widgets/W_Winscreen.uasset",
+				"D:/UE_5.5/GD2Project2/CreatureKeeper/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/MS/VK52Z74G3VW1NAOWTBP7OC.uasset",
+				"D:/UE_5.5/GD2Project2/CreatureKeeper/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UE_5.5/GD2Project2/CreatureKeeper/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
