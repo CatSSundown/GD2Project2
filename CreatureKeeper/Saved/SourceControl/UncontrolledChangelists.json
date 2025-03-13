@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/Enemies/BP_Projectile.uasset",
+				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/EnemyBlueprints/BP_Projectile.uasset",
+				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/PlayerBlueprints/BP_Projectile.uasset",
+				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XS/9H9PN8IER3XX3KG46E0QEI.uasset",
+				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/6B/SKLSVGIELBX9X6ID3R418W.uasset",
+				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/EnemyBlueprints/BP_enemy.uasset",
+				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/VL/DDOGWC82VCFL6CP5DCXL12.uasset",
+				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LW/WWAZJFRU7MWDUH8GS8ZES3.uasset",
+				"C:/Users/emfri/Github/GD2Project2/CreatureKeeper/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LT/GW9PHABA1I7XE21231ZJFH.uasset"
 			]
 		}
 	]
