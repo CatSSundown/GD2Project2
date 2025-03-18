@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/aalan/GitHub/Week 15 recap/GD2Project2/CreatureKeeper/Content/BP_Turrets.uasset",
+				"C:/Users/aalan/GitHub/Week 15 recap/GD2Project2/CreatureKeeper/Content/FarmLevel.umap",
+				"C:/Users/aalan/GitHub/Week 15 recap/GD2Project2/CreatureKeeper/Content/BP_Bullet.uasset",
+				"C:/Users/aalan/GitHub/Week 15 recap/GD2Project2/CreatureKeeper/Content/BluePrints/EnemieWaveStuff/BP_EnemySpawnManager.uasset",
+				"C:/Users/aalan/GitHub/Week 15 recap/GD2Project2/CreatureKeeper/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZR/WT0OQ8CV67OJ6N2UZDDGO2.uasset",
 				"D:/UE_5.5/GD2Project2/CreatureKeeper/Content/Widgets/W_LoseScreen.uasset",
 				"D:/UE_5.5/GD2Project2/CreatureKeeper/Content/Widgets/W_PauseScreen.uasset",
 				"D:/UE_5.5/GD2Project2/CreatureKeeper/Content/BluePrints/BP_Base.uasset",
